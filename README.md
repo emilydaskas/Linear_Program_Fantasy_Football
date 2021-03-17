@@ -1,5 +1,5 @@
 # Fantasy-Football-Linear-Program
-Project to create a linear program which creates an optimal fantasy football lineup.
+Create a linear program which creates an optimal fantasy football lineup.
 
 ## Data:
 
@@ -21,7 +21,7 @@ Features: Name, Position, Team, Projected Points, Price
         * example: you have RB1, RB2, RB3, RB4 on your team with projected points P1, P2, P3, P4
         * the expacted points from these player would be P1 + P2 + 1/2 * P2 + 1/4 * P3
 
-## Questions to Answer
+## Questions
 Who would you choose to maximize points while staying within budget?
 How many points is your team expected to generate?
 How much of your budget did you spend?
